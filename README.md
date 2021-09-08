@@ -58,10 +58,10 @@ Inclusivity requires lowering barriers to entry, but also helping guide newcomer
 
 ### Community
 
-- [x] **Social Engagements**
-- [x] **Celebration**. Spur a culture of celebration of each other's wins. This means highlighting successes of the community members (even if not related to the community. e.g. a community member getting a new job)
-- [x] **Acknowledgement**
-- [x] **Redefine Authorship**
+- [x] **Kinship**. A community is greater than the capabilities of the individual. It's the joy of sharing, of celebrating each other and each other's culture. Not all interactions need be about work - create spaces for friendships to build and to get to know each other outside of any initiative.  
+- [x] **Celebration and Support**. Spur a culture of celebration of each other's wins. This means highlighting successes of the community members (even if not related to the community. e.g. a community member getting a new job). Additionally, provide support to community members who may be having a tough time. 
+- [x] **Acknowledgement**. Acknowledge people's participation. A community members list on the website is highly effective. 
+- [x] **Redefine Authorship**. Scientific authorship has traditionally been defined by the Havard Medical Journal. However, this is prohibitively small. In a collaborative movement, each person's contribution is acknowledged: whether they wrote code, annotated data, did community development, provided analysis or guided the writing journey. The paper would not have been possible without each person's contribution, so we recommend to include them as authors.
 
 ### Discoverability
 - [x] **Logo**
