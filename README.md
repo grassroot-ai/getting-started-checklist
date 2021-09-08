@@ -1,6 +1,6 @@
 # Grassroots AI - Getting Started Checklist
 
-This is a growing checklist on how to start a distributed collaborative grassroots AI movement. It is by no means complete (in fact, this is just a first pass) and is forever changing as different groups include their learnings. Each movement would need to adapt to their individual CONTEXT. That said, we hope some people find value from this
+This is a growing checklist on how to start a distributed collaborative grassroots AI community. It is by no means complete (in fact, this is just a first pass) and is forever changing as different groups include their learnings. Each movement would need to adapt to their individual CONTEXT. That said, we hope some people find value from this
 
 ## Rationale
 
@@ -28,7 +28,7 @@ They've largely been evolved in low-resourced environments for volunteer base ac
 - [x] **Initial Collaborative Task**. This task should be accessible to beginners and newcomers with a variety of ways to
 - [x] **Exciting Initial Announcement Event**. This event serves to spread the word and recruit participants. It is recommended to co-locate this event in a space where their might be a higher density of potential participants, for example: at a related conference. This initial excitement will start the momentum high. 
 - [x] **Scheduled Regular Catch up Meetings**. These meetings build community, keep momentum going, allow opportunities for feedback, and facilitate partnerships and collaboration.
-- [x] **Milestones** - Maintain a list of milestones or goals. This could be a list of conference papers that the movement wants to publish, or just the conferences that the movement wants to be involved in 
+- [x] **Milestones** - Maintain a public and collaborative list of milestones or goals. This could be a list of conference papers that the movement wants to publish, events the movement wants to speak at.
 
 
 ### Collaboration Mediums
@@ -43,12 +43,12 @@ They've largely been evolved in low-resourced environments for volunteer base ac
 
 Inclusivity requires lowering barriers to entry, but also helping guide newcomers, and grow each others expertise
 
-- [x] **Simple and Welcoming Onboarding**. Make joining the movement and getting access to initial points to start as simple as possible. Avoid requesting lots of details from your participants. e.g. Requesting level of education might make an individual without a traditional scientific education feel less welcome. 
+- [x] **Simple and Welcoming Onboarding**. Make joining the movement and getting access to initial points to start as simple as possible. Avoid requesting lots of details from your participants. e.g. Requesting level of education might make an individual without a traditional scientific education feel less welcome. Provide space for people to introduce themselves and welcome them.
 - [x] **Orientation for Newcomers**. Provide an overview of where the movement is at the beginning on each meeting and give anchor points for new participants to start partipating. Having an initial message with some tips to get started also helps significantly. 
 - [x] **Platform Familiarity**. Consider the accessibility and familiarity of chosen platforms. e.g. Not all disciplines use the same tools, and to achieve multidisciplinarity one may need to choose something less suitable that is more accessible. e.g. Meeting notes on Github (a platform for developers) versus a simple Google Doc (which more people can use).
-- [x] **Code of Conduct**. Have a code of conduct in place from day one. The code of conduct should enforce the movements values. 
+- [x] **Code of Conduct**. Have a code of conduct in place from day one. The code of conduct should enforce the movement's values. 
 - [x] **Peer and Group Mentorship Culture**. Peer mentorship acknowledges that each individual has something they can teach another, and Group mentorship provides space for anyone to ask questions and for the members to help each other. Having channel dedicated to people getting help and answering questions is helpful.
-- [x] **Transparency**.  
+- [x] **Opportunities for Idea Sharing and Feedback**. When participants have proposals or ideas, create spaces for them to be shared widely for feedback from the community. 
  
 ### Robustness, Flexibility, Sustainability and Scalability
 - [x] **Trust and Ownership**. When people have an awesome idea on how to make the movement better, provide them with the tools and access so that they can own the initiative. Additionally, trusting others creates more leaders within the movement.
@@ -59,7 +59,7 @@ Inclusivity requires lowering barriers to entry, but also helping guide newcomer
 ### Community
 
 - [x] **Social Engagements**
-- [x] **Celebration** 
+- [x] **Celebration**. Spur a culture of celebration of each other's wins. This means highlighting successes of the community members (even if not related to the community. e.g. a community member getting a new job)
 - [x] **Acknowledgement**
 - [x] **Redefine Authorship**
 
