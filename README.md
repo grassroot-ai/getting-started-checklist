@@ -20,7 +20,7 @@ They've largely been evolved in low-resourced environments for volunteer base ac
 
 **Note: Currently the checklist is skewed to the principles used within the Masakhane and Sisonke Biotik initiatives. This means it's likely skewed to the African context**
 
-## The Check List
+## The Checklist
 
 ### Direction and Momentum
 
@@ -28,6 +28,8 @@ They've largely been evolved in low-resourced environments for volunteer base ac
 - [x] **Initial Collaborative Task**. This task should be accessible to beginners and newcomers with a variety of ways to
 - [x] **Exciting Initial Announcement Event**. This event serves to spread the word and recruit participants. It is recommended to co-locate this event in a space where their might be a higher density of potential participants, for example: at a related conference. This initial excitement will start the momentum high. 
 - [x] **Scheduled Regular Catch up Meetings**. These meetings build community, keep momentum going, allow opportunities for feedback, and facilitate partnerships and collaboration.
+- [x] **Milestones** - Maintain a list of milestones or goals. This could be a list of conference papers that the movement wants to publish, or just the conferences that the movement wants to be involved in 
+
 
 ### Collaboration Mediums
 
@@ -56,9 +58,10 @@ Inclusivity requires lowering barriers to entry, but also helping guide newcomer
 
 ### Community
 
-- [x] **Redefine Authorship**
 - [x] **Social Engagements**
-- [x] **Acknowledgement**  
+- [x] **Celebration** 
+- [x] **Acknowledgement**
+- [x] **Redefine Authorship**
 
 ### Discoverability
 - [x] **Logo**
