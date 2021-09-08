@@ -26,8 +26,8 @@ They've largely been evolved in low-resourced environments for volunteer base ac
 
 - [x] **Articulate a long term vision**. This is a simple and accessible articulation of why you're organising together. 
 - [x] **Initial Collaborative Task**. This task should lower the barrier to entry. 
-- [x] **Initial Announcement Event**. This event serves to spread the word and recruit participants. It is recommended to co-locate this event in a space where their might be a higher density of potential participants, for example: a conference. 
-- [x] **Scheduled Regular Catch up Meetings**. This 
+- [x] **Exciting Initial Announcement Event**. This event serves to spread the word and recruit participants. It is recommended to co-locate this event in a space where their might be a higher density of potential participants, for example: at a related conference. This initial excitement will start the momentum high. 
+- [x] **Scheduled Regular Catch up Meetings**. These meetings build community, keep momentum going, allow opportunities for feedback, and facilitate partnerships and collaboration.
 
 ### Collaboration Mediums
 
@@ -47,8 +47,12 @@ Inclusivity requires lowering barriers to entry, but also helping guide newcomer
 - [x] **Peer and Group Mentorship Culture**. Peer mentorship acknowledges that each individual has something they can teach another, and Group mentorship provides space for anyone to ask questions and for the members to help each other. Having channel dedicated to people getting help and answering questions is helpful.
 
 ### Robustness, Sustainability and Scalability
-- [x] **Redundancy in Leadership**. Given these sort of movements are typically part-time, they need to be robust to changes in availability in leadership.  Multiple community leaders that are given the power to unblock others, will allow for the necessary ebbs and flows in 
-- [x] **Trust and Ownership**. When people have an awesome idea on how to make the movement better, provide them with the tools and access so that they can own the initiative. Additionally, trusting others means less bottlenecking and reliance on early leadership, and allow
+- [x] **Trust and Ownership**. When people have an awesome idea on how to make the movement better, provide them with the tools and access so that they can own the initiative. Additionally, trusting others creates leaders - adding redudancy to leadership.
+- [x] **Redundancy in Leadership**. Given these sort of movements are typically part-time, they need to be robust to changes in availability in leadership.  Multiple community leaders that are given the power to unblock others, will allow for the necessary ebbs and flows in energy. This means that empowering and enabling multiple community members to run the regular catchup meetings, so that it's not reliant on a single person's availability
+- [x] **Consistent Engagements**. "Do Not Wait To Strike Till the Iron Is Hot; But Make It Hot By Striking". Slow, consistent efforts build. It may seem like no movement is happening, but it is and the consistency matters more. Continuing to meet, despite the odds, is what makes these movements slowly gain momentum.  
+
+
+### Community
 
 
 ### Discoverability
