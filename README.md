@@ -31,29 +31,39 @@ They've largely been evolved in low-resourced environments for volunteer base ac
 
 ### Collaboration Mediums
 
-- [x] **Synchronous Communication**
-- [x] **Asynchronous Communication**
-- [x] **Meeting Platform** 
+- [x] **Synchronous Communication**. A chat platform should be chosen that is familiar to the multidisciplinary stakeholders. This could be anything from Whatsapp groups to Slack to Discord to Teams.
+- [x] **Asynchronous Communication**. Not everyone has capacity to keep up with ongoing chats, so an asynchronous communition medium, such as a google mailing list, is excellent for important announcements and discussions.
+- [x] **Meeting Platform**. The meeting platform is exellent for regular catch up calls 
 - [x] **Open and Accessible Meeting Notes**
 - [x] **Open Calendar**
 
 ### Inclusivity
 
-- [x] **Straightforward Onboarding**.   
-- [x] **Orientation for Newcomers**. Provide an overview of where the movement is at the beginning on each meeting and give anchor points for new participants to start partipating
-- [x] **Platform Familiarity**. Consider the accessibility and familiarity of chosen platforms. e.g. Not all disciplines use the same tools, and to achieve multidisciplinarity one may need to choose 
-- [x] **Peer Mentorship Culture**. 
+Inclusivity requires lowering barriers to entry, but also helping guide newcomers, and grow each others expertise
+
+- [x] **Simple and Welcoming Onboarding**. Make joining the movement and getting access to initial points to start as simple as possible. Avoid requesting lots of details from your participants. e.g. Requesting level of education might make an individual without a traditional scientific education feel less welcome. 
+- [x] **Orientation for Newcomers**. Provide an overview of where the movement is at the beginning on each meeting and give anchor points for new participants to start partipating. Having an initial message with some tips to get started also helps significantly. 
+- [x] **Platform Familiarity**. Consider the accessibility and familiarity of chosen platforms. e.g. Not all disciplines use the same tools, and to achieve multidisciplinarity one may need to choose something less suitable that is more accessible. e.g. Meeting notes on Github (a platform for developers) versus a simple Google Doc (which more people can use).
+- [x] **Peer and Group Mentorship Culture**. Peer mentorship acknowledges that each individual has something they can teach another, and Group mentorship provides space for anyone to ask questions and for the members to help each other. Having channel dedicated to people getting help and answering questions is helpful.
 
 ### Scalability 
 
-- [x] **things**
+- [x] **Trust**. Enable and encourage people to start their own initiatives. 
+- [x] **Ownership**. When people have an awesome idea on how to make the movement better, provide them with the tools and access so that they can own the initiative and 
+
+
+### Sustainability
+- [x] **Decentralized Leadership**. 
+- [x] 
 
 ### Discoverability
 - [x] **Logo**
-- [x] **Website**
+- [x] **Website**.
+- [x] **Social Media** 
 - [x] **Blog Posts**
 - [x] **Open Preprints**
 - [x] **Press Coverage**
+- [x] **Presentations and Webinars** 
 
 
 
