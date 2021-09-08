@@ -25,7 +25,7 @@ They've largely been evolved in low-resourced environments for volunteer base ac
 ### Direction and Momentum
 
 - [x] **Articulate a long term vision**. This is a simple and accessible articulation of why you're organising together. 
-- [x] **Initial Collaborative Task**. This task should lower the barrier to entry. 
+- [x] **Initial Collaborative Task**. This task should be accessible to beginners and newcomers with a variety of ways to
 - [x] **Exciting Initial Announcement Event**. This event serves to spread the word and recruit participants. It is recommended to co-locate this event in a space where their might be a higher density of potential participants, for example: at a related conference. This initial excitement will start the momentum high. 
 - [x] **Scheduled Regular Catch up Meetings**. These meetings build community, keep momentum going, allow opportunities for feedback, and facilitate partnerships and collaboration.
 
@@ -44,16 +44,21 @@ Inclusivity requires lowering barriers to entry, but also helping guide newcomer
 - [x] **Simple and Welcoming Onboarding**. Make joining the movement and getting access to initial points to start as simple as possible. Avoid requesting lots of details from your participants. e.g. Requesting level of education might make an individual without a traditional scientific education feel less welcome. 
 - [x] **Orientation for Newcomers**. Provide an overview of where the movement is at the beginning on each meeting and give anchor points for new participants to start partipating. Having an initial message with some tips to get started also helps significantly. 
 - [x] **Platform Familiarity**. Consider the accessibility and familiarity of chosen platforms. e.g. Not all disciplines use the same tools, and to achieve multidisciplinarity one may need to choose something less suitable that is more accessible. e.g. Meeting notes on Github (a platform for developers) versus a simple Google Doc (which more people can use).
+- [x] **Code of Conduct**. Have a code of conduct in place from day one. The code of conduct should enforce the movements values. 
 - [x] **Peer and Group Mentorship Culture**. Peer mentorship acknowledges that each individual has something they can teach another, and Group mentorship provides space for anyone to ask questions and for the members to help each other. Having channel dedicated to people getting help and answering questions is helpful.
-
-### Robustness, Sustainability and Scalability
-- [x] **Trust and Ownership**. When people have an awesome idea on how to make the movement better, provide them with the tools and access so that they can own the initiative. Additionally, trusting others creates leaders - adding redudancy to leadership.
-- [x] **Redundancy in Leadership**. Given these sort of movements are typically part-time, they need to be robust to changes in availability in leadership.  Multiple community leaders that are given the power to unblock others, will allow for the necessary ebbs and flows in energy. This means that empowering and enabling multiple community members to run the regular catchup meetings, so that it's not reliant on a single person's availability
-- [x] **Consistent Engagements**. "Do Not Wait To Strike Till the Iron Is Hot; But Make It Hot By Striking". Slow, consistent efforts build. It may seem like no movement is happening, but it is and the consistency matters more. Continuing to meet, despite the odds, is what makes these movements slowly gain momentum.  
-
+- [x] **Transparency**.  
+ 
+### Robustness, Flexibility, Sustainability and Scalability
+- [x] **Trust and Ownership**. When people have an awesome idea on how to make the movement better, provide them with the tools and access so that they can own the initiative. Additionally, trusting others creates more leaders within the movement.
+- [x] **Redundancy in Leadership**. Given these sort of movements are typically part-time, they need to be robust to changes in availability in leadership.  Growing and enabling multiple community leaders that are given the power to unblock others will allow for the variation in availability. e.g. Empowering and enabling multiple community members to run the regular catchup meetings, so that it's not reliant on a single person's availability, or giving website update access to many community members. 
+- [x] **Consistent Engagements**. "Do Not Wait To Strike Till the Iron Is Hot; But Make It Hot By Striking". Slow, consistent efforts build. It may seem like nothing is happening, but it is and the consistency matters more. Continuing to meet, despite the odds, is what makes these movements slowly gain momentum.  
+- [x] **Embrace Emergent Practices**. While top-down structure can be valuable, there aren't any best practices in this space (perhaps only good practices), and so providing individuals with freedom to experiment with their own ideas on how to run the movement or parts of the movement might allow for good practices to emerge.  
 
 ### Community
 
+- [x] **Redefine Authorship**
+- [x] **Social Engagements**
+- [x] **Acknowledgement**  
 
 ### Discoverability
 - [x] **Logo**
