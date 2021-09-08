@@ -34,8 +34,8 @@ They've largely been evolved in low-resourced environments for volunteer base ac
 - [x] **Synchronous Communication**. A chat platform should be chosen that is familiar to the multidisciplinary stakeholders. This could be anything from Whatsapp groups to Slack to Discord to Teams.
 - [x] **Asynchronous Communication**. Not everyone has capacity to keep up with ongoing chats, so an asynchronous communition medium, such as a google mailing list, is excellent for important announcements and discussions.
 - [x] **Meeting Platform**. The meeting platform is exellent for regular catch up calls 
-- [x] **Open and Accessible Meeting Notes**
-- [x] **Open Calendar**
+- [x] **Open and Accessible Meeting Notes**. No meeting time is accessible for all timezones or availabilities. Thus, open and accessible meeting notes are ideal for people to follow.
+- [x] **Open Calendar**. All events related to the movement should be included on an open calendar. People can easily subscribe to the calendar and be informed about all events
 
 ### Inclusivity
 
@@ -46,15 +46,10 @@ Inclusivity requires lowering barriers to entry, but also helping guide newcomer
 - [x] **Platform Familiarity**. Consider the accessibility and familiarity of chosen platforms. e.g. Not all disciplines use the same tools, and to achieve multidisciplinarity one may need to choose something less suitable that is more accessible. e.g. Meeting notes on Github (a platform for developers) versus a simple Google Doc (which more people can use).
 - [x] **Peer and Group Mentorship Culture**. Peer mentorship acknowledges that each individual has something they can teach another, and Group mentorship provides space for anyone to ask questions and for the members to help each other. Having channel dedicated to people getting help and answering questions is helpful.
 
-### Scalability 
+### Robustness, Sustainability and Scalability
+- [x] **Redundancy in Leadership**. Given these sort of movements are typically part-time, they need to be robust to changes in availability in leadership.  Multiple community leaders that are given the power to unblock others, will allow for the necessary ebbs and flows in 
+- [x] **Trust and Ownership**. When people have an awesome idea on how to make the movement better, provide them with the tools and access so that they can own the initiative. Additionally, trusting others means less bottlenecking and reliance on early leadership, and allow
 
-- [x] **Trust**. Enable and encourage people to start their own initiatives. 
-- [x] **Ownership**. When people have an awesome idea on how to make the movement better, provide them with the tools and access so that they can own the initiative and 
-
-
-### Sustainability
-- [x] **Decentralized Leadership**. 
-- [x] 
 
 ### Discoverability
 - [x] **Logo**
