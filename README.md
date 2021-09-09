@@ -49,7 +49,8 @@ Inclusivity requires lowering barriers to entry, but also helping guide newcomer
 - [x] **Code of Conduct**. Have a code of conduct in place from day one. The code of conduct should enforce the movement's values. 
 - [x] **Peer and Group Mentorship Culture**. Peer mentorship acknowledges that each individual has something they can teach another, and Group mentorship provides space for anyone to ask questions and for the members to help each other. Having channel dedicated to people getting help and answering questions is helpful.
 - [x] **Opportunities for Idea Sharing and Feedback**. When participants have proposals or ideas, create spaces for them to be shared widely for feedback from the community. 
- 
+- [x] **Open Science**. Publish preprints, open source code, documentation and datasets, fail and succeed in the open so others can learn
+
 ### Robustness, Flexibility, Sustainability and Scalability
 - [x] **Trust and Ownership**. When people have an awesome idea on how to make the movement better, provide them with the tools and access so that they can own the initiative. Additionally, trusting others creates more leaders within the movement.
 - [x] **Redundancy in Leadership**. Given these sort of movements are typically part-time, they need to be robust to changes in availability in leadership.  Growing and enabling multiple community leaders that are given the power to unblock others will allow for the variation in availability. e.g. Empowering and enabling multiple community members to run the regular catchup meetings, so that it's not reliant on a single person's availability, or giving website update access to many community members. 
@@ -71,6 +72,7 @@ Inclusivity requires lowering barriers to entry, but also helping guide newcomer
 - [x] **Open Preprints**
 - [x] **Press Coverage**
 - [x] **Presentations and Webinars** 
+- [x] **Open Data / Research Collections** 
 
 
 
