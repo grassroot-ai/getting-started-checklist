@@ -50,6 +50,7 @@ Inclusivity requires lowering barriers to entry, but also helping guide newcomer
 - [x] **Peer and Group Mentorship Culture**. Peer mentorship acknowledges that each individual has something they can teach another, and Group mentorship provides space for anyone to ask questions and for the members to help each other. Having channel dedicated to people getting help and answering questions is helpful.
 - [x] **Opportunities for Idea Sharing and Feedback**. When participants have proposals or ideas, create spaces for them to be shared widely for feedback from the community. 
 - [x] **Open Science**. Publish preprints, open source code, documentation and datasets, fail and succeed in the open so others can learn
+- [x] **Special Invites to under-represented groups**. If you find your group is missing certain participants, then reach out to them individually and invite them to come present their work or arrange a workshop with them. 
 
 ### Robustness, Flexibility, Sustainability and Scalability
 - [x] **Trust and Ownership**. When people have an awesome idea on how to make the movement better, provide them with the tools and access so that they can own the initiative. Additionally, trusting others creates more leaders within the movement.
@@ -57,12 +58,16 @@ Inclusivity requires lowering barriers to entry, but also helping guide newcomer
 - [x] **Consistent Engagements**. "Do Not Wait To Strike Till the Iron Is Hot; But Make It Hot By Striking". Slow, consistent efforts build. It may seem like nothing is happening, but it is and the consistency matters more. Continuing to meet, despite the odds, is what makes these movements slowly gain momentum.  
 - [x] **Embrace Emergent Practices**. While top-down structure can be valuable, there aren't any best practices in this space (perhaps only good practices), and so providing individuals with freedom to experiment with their own ideas on how to run the movement or parts of the movement might allow for good practices to emerge.  
 - [x] **Dynamic Role Assignment**. When people join they come with their own unique set of skills and goals. This means people might join as a linguist but want to become more computational. Allow roles to be dynamic and complex, rather than fixed.  
+
+
 ### Community
 
 - [x] **Kinship**. A community is greater than the capabilities of the individual. It's the joy of sharing, of celebrating each other and each other's culture. Not all interactions need be about work - create spaces for friendships to build and to get to know each other outside of any initiative.  
 - [x] **Celebration and Support**. Spur a culture of celebration of each other's wins. This means highlighting successes of the community members (even if not related to the community. e.g. a community member getting a new job). Additionally, provide support to community members who may be having a tough time. 
 - [x] **Acknowledgement**. Acknowledge people's participation. A community members list on the website is highly effective. 
 - [x] **Redefine Authorship**. Scientific authorship has traditionally been defined by the Havard Medical Journal. However, this is prohibitively small. In a collaborative movement, each person's contribution is acknowledged: whether they wrote code, annotated data, did community development, provided analysis or guided the writing journey. The paper would not have been possible without each person's contribution, so we recommend to include them as authors.
+- [x] **Organize Large Impactful Events**. Arrange workshops, seminars, hackathons for your cause. It brings in new members, revitalizes existing members, and facilitates collaborations 
+
 
 ### Discoverability
 - [x] **Logo**
